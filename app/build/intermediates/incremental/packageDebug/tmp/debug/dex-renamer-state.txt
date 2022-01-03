@@ -1,0 +1,7 @@
+#Mon Dec 13 13:29:29 PST 2021
+base.0=/Users/victoriia/Downloads/m4-diamonds/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/victoriia/Downloads/m4-diamonds/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fffdc71-f160-4b8f-acb5-e5d4815d0670" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="3.7_WVGA_Nexus_One_API_R" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="m4-diamonds" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="m4-diamonds" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="m4-diamonds" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="[coursera tools]" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="21yUxZQ7pq3PudnHCQwPbALGRRv" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="m4-diamonds [submitForGrading]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="submitForGrading" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.m4-diamonds [submitForGrading]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fffdc71-f160-4b8f-acb5-e5d4815d0670" name="Default Changelist" comment="" />
+      <created>1638913067582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638913067582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1639530740498">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1639431709091" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1639530740498" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1639530740497">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1639431709089" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1639530740497" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1639530740496">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1639431709088" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1639530740496" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1639530740497">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1639431709090" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1639530740497" />
+    <state width="1238" height="97" key="GridCell.Tab.1.bottom" timestamp="1639430480993">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="97" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1639428506742" />
+    <state width="1238" height="97" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1639430480993" />
+    <state width="1238" height="97" key="GridCell.Tab.1.center" timestamp="1639430480992">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="97" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1639428506740" />
+    <state width="1238" height="97" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1639430480992" />
+    <state width="1238" height="97" key="GridCell.Tab.1.left" timestamp="1639430480990">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="97" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1639428506735" />
+    <state width="1238" height="97" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1639430480990" />
+    <state width="1238" height="97" key="GridCell.Tab.1.right" timestamp="1639430480993">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="97" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1639428506741" />
+    <state width="1238" height="97" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1639430480993" />
+    <state x="244" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1641249570527">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="244" y="335" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1641249570527" />
+    <state width="336" height="83" key="javadoc.popup.new" timestamp="1639093078375">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="336" height="83" key="javadoc.popup.new/0.0.1280.800@0.0.1280.800" timestamp="1639093078375" />
+    <state width="336" height="83" key="javadoc.popup.new/0.23.1280.777@0.23.1280.777" timestamp="1638915103354" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
